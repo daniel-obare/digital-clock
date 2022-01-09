@@ -1,4 +1,4 @@
-# digital-clockd
+# digital-clock
 
 ![Digital clock](https://github.com/daniel-obare/digital-clock/blob/main/images/digital-clock.PNG)
 
